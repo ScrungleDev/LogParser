@@ -1,0 +1,8 @@
+[project]
+name = "LogParser"
+version = "0.0"
+description = "A Modular Log Parsing & Analysis Tool"
+readme = "README.md"
+dependencies = [
+    "typer"
+]
